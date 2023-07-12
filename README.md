@@ -24,5 +24,6 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="200" hight="50">
 <img src="https://w7.pngwing.com/pngs/361/736/png-transparent-jetbrains-pycharm-button-icon.png" alt="pycharm" width="120" hight="50">
-
-
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*wOHyKy6fl3ltcBMNpCvC6Q.png" alt="jupiternotebook" width="120" hight="50">
+<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="120" hight="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" alt="numpy" width="120" hight="50">
