@@ -4,8 +4,6 @@
 </div>
 
 </br>
-</br>
-</br>
 
 
 ###  Обо мне 🐉.
@@ -17,5 +15,14 @@
     <p>🐉Genshin Impact</p>
     <p>🎴Аниме</p>
     <p>🫰Дорамы</p>
+</br>
+</br>
+</br>
+
+## 🛠  Technologies and tools
+<a name="Работаю с "></a>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="200" hight="50">
+<img src="https://w7.pngwing.com/pngs/361/736/png-transparent-jetbrains-pycharm-button-icon.png" alt="pycharm" width="120" hight="50">
 
 
