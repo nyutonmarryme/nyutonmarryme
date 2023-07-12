@@ -6,20 +6,16 @@
 </br>
 </br>
 </br>
-Обо мне 💬 :
-<img hight="200" width="250" alt="GIF" align="left" src="https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Ningguang_Dynamic_Skin.gif/revision/latest/scale-to-width-down/200?cb=20221228122235">
 
-<!--
-**nyutonmarryme/nyutonmarryme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###  Обо мне 🐉.
+<img hight="120" width="170" alt="GIF" align="left" src="https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Ningguang_Dynamic_Skin.gif/revision/latest/scale-to-width-down/200?cb=20221228122235">
+<p>🌱20 лет</p>
+  <p>💬4 курс информационной безопасности в РУТ(МИИТ)</p>
+  <p>🔭 Изучаю машинное обучение, алгоритмы и структуры данных</p>
+  <p>Мои хобби:</p> 
+    <p>🐉Genshin Impact</p>
+    <p>🎴Аниме</p>
+    <p>🫰Дорамы</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
